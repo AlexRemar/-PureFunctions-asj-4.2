@@ -11,6 +11,7 @@
         "ecmaVersion": "latest",
         "sourceType": "module"
     },
+    "ignorePatterns": ["/node_modules/eslint/bin/eslint.js"],
     "rules": {
     }
 }
